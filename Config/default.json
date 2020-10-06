@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://bdg_94:bdg_94@urbe.aqhsr.mongodb.net/Urbe?retryWrites=true&w=majority",
+    "jwtSecret": "rAv4HdVhcVH5stCAFOCv"
+}
